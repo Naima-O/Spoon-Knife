@@ -21,3 +21,15 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 ### purple = commits in repository 
 ### the open circle = most recent commit
 ### main button + purple cloud button means everything is in repository
+
+### Internet vs The Web
+### the internet is the physical devices connnected to hold the web
+###         - biggests 
+###         - contains servers ( computer that serves other computers in a network of servers)
+###         - LAN ( local area network)
+###         - WAN ( wide area network) = 2+ LAN's
+###             - the internet is the biggest one
+### the web or WWW is the digital platforms
+###     - connection of websites
+###     - your computer would be the client ( common example = browser )
+###         -server client relationship
