@@ -16,3 +16,7 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 1. item 1
 2. item 2
+
+### purple = commits in repository 
+### the open circle = most recent commit
+### main button + blue button means everything is in repository
